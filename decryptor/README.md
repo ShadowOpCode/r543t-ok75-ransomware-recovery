@@ -26,7 +26,7 @@ This tool accompanies the research:
 
 **256 Bits on Paper, 32 Bits in Practice: Breaking r543t/ok75 Ransomware Through a CryptoAPI Implementation Flaw**
 
-Full technical analysis: `[research link]`
+Full technical analysis: `https://github.com/ShadowOpCode/r543t-ok75-ransomware-recovery/blob/main/report/256%20Bits%20on%20Paper%2C%2032%20Bits%20in%20Practice.pdf`
 
 The paper documents the ransomware lineage, encryption layouts, AutoIt Crypto UDF misuse, CryptoAPI key derivation, key-recovery methodology, and validation of the recovery process.
 
