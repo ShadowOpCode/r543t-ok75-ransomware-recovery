@@ -297,7 +297,7 @@ During incident response, preserve the ransomware working directory and any avai
 
 The full report contains the complete threat-intelligence timeline, sample comparison, AutoIt analysis, encryption layouts, CryptoAPI reconstruction, practical key-recovery methodology, validation evidence, detection opportunities, and limitations.
 
-**Full report:** `[report link]`
+**Full report:** `https://github.com/ShadowOpCode/r543t-ok75-ransomware-recovery/blob/main/report/256%20Bits%20on%20Paper%2C%2032%20Bits%20in%20Practice.pdf`
 
 ## Disclaimer
 
@@ -306,7 +306,3 @@ This repository is intended for defensive security research, incident response, 
 AES-256 itself is not broken by this research. The recovery technique exploits a ransomware-specific implementation mistake in the handling of CryptoAPI key objects.
 
 Always preserve original encrypted data before attempting recovery.
-
-## License
-
-See `LICENSE`.
